@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #BFEAF5;
+  margin: auto;
+  width: 600px;
+}
+
+h1 {
+  color: blue;
+  margin-top: 0;
+}
+
+main {
+  padding: 1em 2em;
+}
+
+label {
+  float: left;
+  width: 16em;
+  text-align: right;
+}
+
+input {
+  margin-left: 1em;
+}
+
+#calculate {
+  margin-bottom: 1em;
+}
+
+#make-change-button {
+  margin-left: 50%;
+}
+
+.container {
+  margin-top: 40%;
+  background-color: #91D8E4;
+}
+
+.message {
+  color: #2C74B3;
+  text-align: center;
+}
+
+div {
+  padding: 10px 10px;
+  text-align: center;
+}
